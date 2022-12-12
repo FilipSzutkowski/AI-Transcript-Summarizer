@@ -1,2 +1,4 @@
 .env
 node_modules
+client-app_
+.DS_Store
