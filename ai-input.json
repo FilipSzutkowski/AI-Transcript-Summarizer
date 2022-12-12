@@ -1,0 +1,4 @@
+{
+  "first_prompt": "This is a transcript of a police interview. Make a summary of the transcript. The summary should contain: what happened, where it happened, who was invloved and relationships between people invlolved.",
+  "loop_prompt": "This is a partial transcript of a police interview. The context of previous conversation is provided in the paragraph starting with 'Context:'. Make a summary of the transcript while maintaining the context of the conversation. The summary should contain: what happened, where it happened, who was invloved and relationships between people invlolved."
+}

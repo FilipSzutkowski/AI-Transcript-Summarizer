@@ -1,0 +1,11 @@
+@tailwind base;
+
+html,
+body {
+  height: 100vh;
+  width: 100vw;
+  @apply overflow-x-hidden;
+}
+
+@tailwind components;
+@tailwind utilities;
